@@ -19,4 +19,5 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 DAY-1: learning git and github tutorial
       basics of array 
+      [Remove Element] https://leetcode.com/problems/remove-element/description/ 
       
