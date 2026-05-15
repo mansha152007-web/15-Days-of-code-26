@@ -17,7 +17,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Keep pushing your changes every day!  
 
-DAY-1: learning git and github tutorial
-      basics of array 
+DAY-1: learning git and github tutorial <br>
+      basics of array <br>
       [Remove Element] https://leetcode.com/problems/remove-element/description/ 
       
