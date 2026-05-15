@@ -16,3 +16,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    - Add links to your code submissions/projects  
 
 4. Keep pushing your changes every day!  
+
+DAY-1: learning git and github tutorial
+      basics of array 
+      
