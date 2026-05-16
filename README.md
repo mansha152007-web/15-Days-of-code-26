@@ -19,5 +19,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 DAY-1: learning git and github tutorial <br>
       basics of array <br>
+      [Remove Element] https://leetcode.com/problems/remove-element/description/ 
+   <br>
+  https://leetcode.com/submissions/detail/2003754394/ <br>[Largest and Second Largest]https://www.codechef.com/practice/course/arrays/ARRAYS/problems/LARGESECOND?tab=statement<br>https://www.codechef.com/viewsolution/1278023920
+
       
-      
+  DAY-2: questions practiced on array <br>[Red Light, Green Light] https://www.codechef.com/practice/course/arrays/ARRAYS/problems/DOLL<br>https://www.codechef.com/viewsolution/1278290333<br>
+[MIN To MAX] https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN?tab=statement<br>https://www.codechef.com/viewsolution/1278275342<br>
+[Difficulty Rating Order]https://www.codechef.com/practice/course/arrays/ARRAYS/problems/RATINGINPRAC
+<br>https://www.codechef.com/viewsolution/1278325919<br>[The Squid Game]https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SQUIDRULE<br>https://www.codechef.com/viewsolution/1278355046
