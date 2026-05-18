@@ -28,3 +28,5 @@ DAY-1: learning git and github tutorial <br>
 [MIN To MAX] https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN?tab=statement<br>https://www.codechef.com/viewsolution/1278275342<br>
 [Difficulty Rating Order]https://www.codechef.com/practice/course/arrays/ARRAYS/problems/RATINGINPRAC
 <br>https://www.codechef.com/viewsolution/1278325919<br>[The Squid Game]https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SQUIDRULE<br>https://www.codechef.com/viewsolution/1278355046
+
+DAY-3:started learning web devlopment(html)<br> [Max consecutive ones] https://leetcode.com/problems/max-consecutive-ones/description/<br>https://leetcode.com/submissions/detail/2006390080/<br>[Single number]https://leetcode.com/submissions/detail/2006390080/<br>https://leetcode.com/submissions/detail/2006563063/<br>[Move zeros] https://leetcode.com/problems/move-zeroes/description/<br>https://leetcode.com/submissions/detail/2006723741/<br>[Rotate array]https://leetcode.com/problems/rotate-array/description/<br>https://leetcode.com/submissions/detail/2006745770/
