@@ -34,3 +34,21 @@ DAY-3:started learning web devlopment(html)<br> [Max consecutive ones] https://l
 DAY-4: continued learning web dev(html)<br>[Two sum]https://leetcode.com/problems/two-sum/description/<br> https://leetcode.com/submissions/detail/2009392429/
 
 DAY-5: https://youtu.be/frf7qxiN2qU?si=QD1assG1OXNMDH0h<br>[Best time to buy and sell the stock]https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/<br>https://leetcode.com/submissions/detail/2010224288/<br>[Search insert position]https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=array<br>https://leetcode.com/submissions/detail/2010235182/<br>[Apply operations to an array]https://leetcode.com/problems/apply-operations-to-an-array/description/<br>https://leetcode.com/submissions/detail/2010248254/
+
+
+DAY-6:continued learning web devlopment<br>[Remove duplicates from sorted array ||]https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/<br>https://leetcode.com/submissions/detail/2010709402/
+
+DAY-7:[subarray sum equals to k ]https://leetcode.com/problems/subarray-sum-equals-k/description/<br>https://leetcode.com/submissions/detail/2012042481/<br>[Maximum product subarray]https://leetcode.com/problems/maximum-product-subarray/description/<br>https://leetcode.com/submissions/detail/2012028362/<br>[Squares of a sorted array]https://leetcode.com/problems/squares-of-a-sorted-array/description/<br>https://leetcode.com/submissions/detail/2011685599/
+
+
+
+
+
+
+
+
+DAY-8: [Majority element]https://leetcode.com/problems/majority-element/description/<br>https://leetcode.com/submissions/detail/2012859546/<br>[Most frequent even element]https://leetcode.com/problems/most-frequent-even-element/description/<br>https://leetcode.com/submissions/detail/2012989847/<br>[Minimum operations to exceed threshold value]https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/<br>https://leetcode.com/submissions/detail/2012993642/
+
+
+
+DAY-9:[No. of employees who met the target]https://leetcode.com/problems/number-of-employees-who-met-the-target/description/<br>https://leetcode.com/submissions/detail/2013671351/<br>[Rearrange elements by sign]https://leetcode.com/problems/rearrange-array-elements-by-sign/description/<br>https://leetcode.com/submissions/detail/2013906787/<br>[Sort array by parity ||]https://leetcode.com/problems/sort-array-by-parity-ii/description/<br>https://leetcode.com/submissions/detail/2013926092/<br>[Sort array by parity]https://leetcode.com/problems/sort-array-by-parity/description/<br>https://leetcode.com/submissions/detail/2013943787/<br>[Sort even and odd indices independently]https://leetcode.com/problems/sort-even-and-odd-indices-independently/description/<br>https://leetcode.com/submissions/detail/2013963763/
