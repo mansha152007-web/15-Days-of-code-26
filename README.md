@@ -67,3 +67,16 @@ DAY-13:[Merge sorted array]https://leetcode.com/problems/merge-sorted-array/desc
 DAY-14:[find peak element]https://leetcode.com/problems/find-peak-element/description/<br>https://leetcode.com/submissions/detail/2018049687/[search insorted array 2]https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/<br>https://leetcode.com/submissions/detail/2018163568/<br>[search in sorted array]https://leetcode.com/problems/search-in-rotated-sorted-array/description/<br>https://leetcode.com/submissions/detail/2018181765/
 
 DAY-15:[koko eating bananas]https://leetcode.com/problems/koko-eating-bananas/description/<br>https://leetcode.com/submissions/detail/2019431194/<br>[smallest divisor given a threshold]https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/<br>https://leetcode.com/submissions/detail/2019460855/<br>[kth missing positive no.]https://leetcode.com/problems/kth-missing-positive-number/description/<br>https://leetcode.com/submissions/detail/2019541975/<br>[median of two sorted array]https://leetcode.com/problems/median-of-two-sorted-arrays/description/<br>https://leetcode.com/submissions/detail/2019551999/<br>[minimum cost of buying goods with discount]https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/<br>https://leetcode.com/submissions/detail/2019958088/
+
+
+**PART-2**
+
+DAY-1: Revision of Strings<br>[length of last word]https://leetcode.com/problems/length-of-last-word/description/<br>https://leetcode.com/submissions/detail/2032936065/<br>[valid anagram]https://leetcode.com/problems/valid-anagram/description/<br>https://leetcode.com/submissions/detail/2033076983/<br>[find resultant after removing anagrams]https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/<br>https://leetcode.com/submissions/detail/2033114726/<br>[largest odd no. in string]https://leetcode.com/problems/largest-odd-number-in-string/description/<br>https://leetcode.com/submissions/detail/2033164756/
+
+
+DAY-2: [largest 3 digit no. in string]https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/<br>https://leetcode.com/submissions/detail/2033852618/<br>[valid palindrome]https://leetcode.com/problems/valid-palindrome/description/<br>https://leetcode.com/submissions/detail/2033882763/<br>Learnt basics of linked list<br>https://youtu.be/Nq7ok-OyEpg?si=oxVclxCOjlABoiJo
+
+
+DAY-3: CONTINUED LEARNING LINKED LIST<br>https://youtu.be/VaECK03Dz-g?si=p6ojz-dTMYT7upUE<br>Gave contest on codechef<br>Score:300,Rank=7628
+
+
