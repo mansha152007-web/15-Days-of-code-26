@@ -77,6 +77,20 @@ DAY-1: Revision of Strings<br>[length of last word]https://leetcode.com/problems
 DAY-2: [largest 3 digit no. in string]https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/<br>https://leetcode.com/submissions/detail/2033852618/<br>[valid palindrome]https://leetcode.com/problems/valid-palindrome/description/<br>https://leetcode.com/submissions/detail/2033882763/<br>Learnt basics of linked list<br>https://youtu.be/Nq7ok-OyEpg?si=oxVclxCOjlABoiJo
 
 
-DAY-3: CONTINUED LEARNING LINKED LIST<br>https://youtu.be/VaECK03Dz-g?si=p6ojz-dTMYT7upUE<br>Gave contest on codechef<br>Score:300,Rank=7628
+DAY-3: CONTINUED LEARNING LINKED LIST<br>https://youtu.be/VaECK03Dz-g?si=p6ojz-dTMYT7upUE<br>Gave contest on codechef<br>Score:300,Rank=7628<br>https://www.codechef.com/START243D
 
 
+DAY-4:[Renove linked list elements]https://leetcode.com/problems/remove-linked-list-elements/description/<br>[find the highest altitude]https://leetcode.com/problems/find-the-highest-altitude/description/<br>https://leetcode.com/problems/find-the-highest-altitude/submissions/2038854820/<br>revision of web d
+
+DAY-5:[middle of the linked list]https://leetcode.com/problems/middle-of-the-linked-list/description/<br>https://leetcode.com/problems/middle-of-the-linked-list/submissions/2040092901/<br>[delte the middle node of the linked list]https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/<br>https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2040104610/<br>[remove the nth node from the end of list]https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/<br>https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2040114508/
+
+
+DAY-6:[swapping nodes in the linked list]https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/<br>https://leetcode.com/problems/swapping-nodes-in-a-linked-list/submissions/2040228991/<br>[maximum ice cream bars]https://leetcode.com/problems/maximum-ice-cream-bars/description/<br>https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2040965280/
+
+
+
+DAY-7:[reverse linked list ii]https://leetcode.com/problems/reverse-linked-list-ii/description/<br>https://leetcode.com/submissions/detail/2042622426/<br>[reverse linked list]https://leetcode.com/problems/reverse-linked-list/description/<br>https://leetcode.com/submissions/detail/2042479039/
+
+
+
+DAY-8:[find the xor of numbers which appear twice]https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/<br>https://leetcode.com/submissions/detail/2043825744/<br>[single no. 3]https://leetcode.com/problems/single-number-iii/description/<br>https://leetcode.com/submissions/detail/2043822365/<br>[single no.2]https://leetcode.com/problems/single-number-ii/description/<br>https://leetcode.com/submissions/detail/2043812944/<br>[find the difference]https://leetcode.com/problems/find-the-difference/description/<br>https://leetcode.com/submissions/detail/2043805915/<br>[single no.]https://leetcode.com/problems/single-number/description/<br>https://leetcode.com/submissions/detail/2043802499/<br>[missing no.]https://leetcode.com/problems/missing-number/description/<br>https://leetcode.com/submissions/detail/2043795905/<br>[find the duplicate no.]https://leetcode.com/problems/find-the-duplicate-number/description/<br>https://leetcode.com/submissions/detail/2043793086/<br>[linked list cycle 2]https://leetcode.com/problems/linked-list-cycle-ii/description/<br>https://leetcode.com/submissions/detail/2043764413/<br>[linked list cycle ]https://leetcode.com/problems/linked-list-cycle/description/<br>https://leetcode.com/submissions/detail/2043716053/
