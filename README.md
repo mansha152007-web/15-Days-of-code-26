@@ -106,3 +106,8 @@ DAY-12:[Insertion sort list]https://leetcode.com/problems/insertion-sort-list/de
 
 DAY-13:[add digits]https://leetcode.com/problems/add-digits/description/<br>https://leetcode.com/submissions/detail/2051108717/<br>[merge two sorted lists]https://leetcode.com/problems/merge-two-sorted-lists/description/<br>https://leetcode.com/problems/merge-two-sorted-lists/submissions/2051361771/<br>[palindrome linked list]https://leetcode.com/problems/palindrome-linked-list/description/<br>https://leetcode.com/problems/palindrome-linked-list/submissions/2051390649/<br>started learning bit manupulation
 
+
+DAY-14: continued learning bit manupulation<br>gave contest on codechef(couldn't go through all questions)https://www.codechef.com/START245D
+
+DAY-15:[maximum gap]https://leetcode.com/problems/maximum-gap/description/<br>https://leetcode.com/submissions/detail/2055671745/<br>[third maximum no.]https://leetcode.com/problems/third-maximum-number/description/<br>https://leetcode.com/submissions/detail/2055771763/<br>[find all duplicates in an array]https://leetcode.com/problems/find-all-duplicates-in-an-array/description/<br>https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/2055779241/<br>[next greater element]https://leetcode.com/problems/next-greater-element-i/description/<br>https://leetcode.com/submissions/detail/2055841484/
+
